@@ -15,7 +15,7 @@ Research on Cape Town suburbs and towns which can be used to make a decision on 
 		Latitude
 		Longtitude
 		Distance(KM) (This is distance from V&A Waterfront to Point B can be changed in script)
-		Height above sea level(m)
+		Height above sea level(m) (why we calculated this? more elevation = better view of scenary - hypothesis)
 		
 	- can be used given a provided array of Suburbs/Streets/Places example 
 		['Durbanville Hills','Vergesig','Clifton']
