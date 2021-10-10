@@ -16,8 +16,6 @@ Research on Cape Town suburbs and towns which can be used to make a decision on 
 		
 	- can be used given a provided array of Suburbs/Streets/Places example 
 		['Durbanville Hills','Vergesig','Clifton']
-
-Height above sea level(m)
  
 ### You can find web tools here to measure climate stats
 https://adgstudios.co.za/capetownproject/wind-weather-graphs.html
