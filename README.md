@@ -5,6 +5,9 @@
 
 Research on Cape Town suburbs and towns which can be used to make a decision on purchasing property in Cape Town.
 
+<a href="https://colab.research.google.com/github/ADGVLOGS/Cape-Town-Project/blob/main/DurbanvilleSuburbs.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
+
+
 ### Feel free to look at the Jupyter notebooks for any ideas
 	- CapeTown.ipynb is used to generate visual heat map of population in Cape Town
 	- DurbanvilleSuburbs.ipynb is used to generate a .csv with given headers 
@@ -16,6 +19,6 @@ Research on Cape Town suburbs and towns which can be used to make a decision on 
 		
 	- can be used given a provided array of Suburbs/Streets/Places example 
 		['Durbanville Hills','Vergesig','Clifton']
- 
+
 ### You can find web tools here to measure climate stats
 https://adgstudios.co.za/capetownproject/wind-weather-graphs.html
