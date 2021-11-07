@@ -21,4 +21,4 @@ Research on Cape Town suburbs and towns which can be used to make a decision on 
 		['Durbanville Hills','Vergesig','Clifton']
 
 ### You can find web tools here to measure climate stats
-https://adgstudios.co.za/capetownproject/wind-weather-graphs.html
+https://adgsenpai.github.io/Cape-Town-Project/capetownproject/wind-weather-graphs.html
